@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RupeeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-09-17T11:37:33" hostname="Poulamis-MacBook-Pro.local" time="0.03">
+  <properties/>
+  <testcase name="shouldReturnTrueIfBothTenRupeeIsEqual()" classname="RupeeTest" time="0.021"/>
+  <testcase name="shouldReturnFalseIfResultDoesNotAddsUpToTen()" classname="RupeeTest" time="0.002"/>
+  <testcase name="shouldReturnFalseIfTenRupeeIsNotEqualToADifferentType()" classname="RupeeTest" time="0.001"/>
+  <testcase name="shouldReturnFalseIfBothTenRupeeIsNotSame()" classname="RupeeTest" time="0.002"/>
+  <testcase name="shouldReturnTrueIfResultAddsUpToTen()" classname="RupeeTest" time="0.001"/>
+  <testcase name="shouldReturnTrueIfTenRupeeIsNotNull()" classname="RupeeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

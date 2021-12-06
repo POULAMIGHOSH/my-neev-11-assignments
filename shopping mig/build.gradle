@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+    id "org.flywaydb.flyway" version "8.0.0-beta2"
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation 'org.postgresql:postgresql:42.2.10'
+}
+
+flyway {
+    url = 'jdbc:postgresql://127.0.0.1:5432/postgres'
+    user = 'postgres'
+    password = 'postgres'
+}
+
+test {
+    useJUnitPlatform()
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ISBNtools.StockManagementTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-11-12T11:53:50" hostname="Poulamis-MacBook-Pro.local" time="0.373">
+  <properties/>
+  <testcase name="getACorrectLocatorCode()" classname="com.ISBNtools.StockManagementTest" time="0.36"/>
+  <testcase name="webserviceisusedifdataisnotpresentindatabase()" classname="com.ISBNtools.StockManagementTest" time="0.01"/>
+  <testcase name="databaseisusedifdataispresent()" classname="com.ISBNtools.StockManagementTest" time="0.002"/>
+  <system-out><![CDATA[setup running
+setup running
+setup running
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
