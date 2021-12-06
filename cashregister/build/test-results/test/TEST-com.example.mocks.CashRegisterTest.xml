@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.mocks.CashRegisterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-27T12:01:05" hostname="Poulamis-MacBook-Pro.local" time="0.522">
+  <properties/>
+  <testcase name="shouldPrintPurchaseFromCashRegister" classname="com.example.mocks.CashRegisterTest" time="0.522"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
